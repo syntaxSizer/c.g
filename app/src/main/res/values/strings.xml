@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">c.g</string>
     <string name="title_activity_google__maps">Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1</string>
+
+    <string name="user_exists">User already logged in</string>
 </resources>
