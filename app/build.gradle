@@ -28,13 +28,21 @@ dependencies {
     //Facebook SDK
     //Google Play Services
     //GSON library
-    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:appcompat-v7:24.0.0'
     compile 'com.stephentuso:welcome:0.7.2'
-    compile 'com.android.support:design:23.4.0'
+    compile 'com.android.support:design:24.0.0'
     compile 'com.facebook.android:facebook-android-sdk:4.0.1'
     compile 'com.google.android.gms:play-services:9.0.2'
     compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.google.android.gms:play-services-ads:9.0.2'
+    compile 'com.google.android.gms:play-services-auth:9.0.2'
+    compile 'com.firebase:firebase-client-android:2.3.1'
+    compile 'com.google.android.gms:play-services-gcm:9.0.2'
 }
+
+
+
+
 
 
 
