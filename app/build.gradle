@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "matrial.aka.cg"
         minSdkVersion 15
-        targetSdkVersion 23
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
     }
@@ -35,5 +35,6 @@ dependencies {
     compile 'com.google.android.gms:play-services:9.0.2'
     compile 'com.google.code.gson:gson:2.3.1'
 }
+
 
 
